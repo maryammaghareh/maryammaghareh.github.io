@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 950" role="img" aria-labelledby="title desc">
+  <title id="title">Maryam Maghareh portrait placeholder</title>
+  <desc id="desc">An abstract blue and gold molecular portrait placeholder with the initials MM.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#174A73"/>
+      <stop offset="1" stop-color="#001B38"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#EAAA00" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#EAAA00" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="760" height="950" fill="url(#bg)"/>
+  <circle cx="596" cy="190" r="250" fill="url(#glow)"/>
+  <g fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="3">
+    <path d="M-40 280 120 190l156 88 160-88 158 90 157-88 150 87"/>
+    <path d="M120 190v180l156 89 160-90 158 92 157-91v-178"/>
+  </g>
+  <g fill="#EAAA00" stroke="#001B38" stroke-width="8">
+    <circle cx="120" cy="190" r="18"/><circle cx="436" cy="190" r="18"/><circle cx="751" cy="192" r="18"/>
+    <circle cx="276" cy="459" r="14"/><circle cx="594" cy="461" r="14"/>
+  </g>
+  <circle cx="380" cy="560" r="190" fill="#fff" fill-opacity=".07" stroke="#EAAA00" stroke-width="3" stroke-dasharray="16 16"/>
+  <text x="380" y="610" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="190" font-weight="700" letter-spacing="-20">MM</text>
+  <text x="380" y="780" text-anchor="middle" fill="#fff" fill-opacity=".7" font-family="Arial,sans-serif" font-size="24" letter-spacing="8">PHARMACEUTICAL SCIENCES</text>
+</svg>
